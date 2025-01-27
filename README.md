@@ -23,5 +23,6 @@ FileWriter: Writes characters to a file, allowing you to append or overwrite con
 BufferedWriter: Wraps FileWriter for efficient writing of large amounts of text.
 3. Modifying a Text File
 Modifying a file generally involves reading its content, making changes in memory, and writing the updated content back. Java doesn’t allow direct modification of file content, but this can be achieved through temporary files or string manipulation.
+
 This file handling utility demonstrates how Java provides a structured approach to reading, writing, and modifying text files. By leveraging classes like FileReader, BufferedReader, FileWriter, and BufferedWriter, developers can efficiently handle text files. These operations are foundational for various applications, from simple logging systems to complex data processing tools. With modern enhancements in the java.nio package, Java further simplifies file handling, making it more intuitive and efficient.
 
