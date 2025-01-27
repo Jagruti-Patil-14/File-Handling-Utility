@@ -1,11 +1,11 @@
 # File-Handling-Utility
-#Company: Codtech It Solutions
-#Name:Jagruti Patil
-#Intern ID:CTO81JC
-#Domain:Java Programming
-#Duration:4 weeks
-#Mentor:Neela Santosh
-#Description:File handling is an essential part of software development that enables applications to interact with data stored in files. Java, as a robust programming language, provides extensive support for file handling through classes in the java.io and java.nio packages. This utility demonstrates how to create a Java program to perform three key operations: reading, writing, and modifying text files. Let’s delve into the details of each operation and how they are implemented in Java.
+*Company: Codtech It Solutions
+*Name:Jagruti Patil
+Intern ID:CTO81JC
+Domain:Java Programming
+Duration:4 weeks
+Mentor:Neela Santosh
+Description:File handling is an essential part of software development that enables applications to interact with data stored in files. Java, as a robust programming language, provides extensive support for file handling through classes in the java.io and java.nio packages. This utility demonstrates how to create a Java program to perform three key operations: reading, writing, and modifying text files. Let’s delve into the details of each operation and how they are implemented in Java.
 1. Reading a Text File
 Reading a text file involves fetching and displaying its content. In Java, this is typically achieved using classes such as FileReader, BufferedReader, or Files from the java.nio.file package.
 Here’s how it works:
